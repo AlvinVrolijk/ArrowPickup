@@ -1,0 +1,6 @@
+name: ArrowPickup
+version: ${project.version}
+main: nl.alvinvrolijk.arrowpickup.ArrowPickup
+authors: [AlvinVrolijk]
+description: Pickup arrows from other mobs
+website: https://github.com/AlvinVrolijk/ArrowPickup
